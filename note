@@ -1,0 +1,128 @@
+ sudo chmod +x xampp-linux-x64-7.2.13-0-installer.run
+ sudo ./xampp-linux-x64-7.2.13-0-installer.run
+sudo passwd $USER
+
+ cd : vao folder
+ls : check folder
+
+ sudo chmod 777 -R htdocs : Cấp quyền admin
+
+ sudo ./lampp restart
+
+
+sudo dpkg -i chrome-remote-desktop_current_amd64.deb
+
+sudo apt install php7.2-gd   :cài đặt php 
+
+quocduongpy@gmail.com
+@Ba0mothai11
+
+- Bật mode rewrite
+    sudo a2enmod rewrite
+sudo service mysql start
+sudo /opt/lampp/lampp restart
+    sudo /etc/init.d/apache2 restart
+sudo service apache2 restart
+/etc/init.d/nginx restart
+sudo service php7.2-fpm restart 
+sudo /etc/init.d/php restart
+sudo /etc/init.d/crond restart
+1547627242
+* * * * *	root	cd /home/nghia/Projects/webhocdev && php artisan schedule:run >> /dev/null 2>&1
+* * * * * php artisan schedule:run
+wefmwxnkmkrfhknj
+sudo service cron reload
+sudo a2ensite chegg-ssl.conf
+ php artisan serve --port=8099
+
+host:
+/etc/
+/etc/apache2/sites-available
+ sudo a2ensite botman.local.conf
+
+gitlab: push lan dau: git push -f origin master
+
+35.235.64.251
+user: dohongnam29051987
+pass: vN123456789
+
+git clone https://longht8691@gitlab.com/quocduongpy/botman.git
+git@gitlab.com:quocduongpy/botman.git
+
+serve nginx:
+ssl:/etc/nginx/ssl-certs
+
+
+ssh root@207.148.123.13
+Uo#1Ron}Gr)dNJ,#@
+
+phpmyadmin
+http://www.sapdoque.aquathar.com/adminer.php
+adminDuong
+DuongBa0mothai
+
+Dang nhap sever botman:
+ssh root@45.124.64.30
+tn5FtL2pGkAA4Uub
+cd /var/www/admin_mongodb/adminMongo
+http://45.124.64.30:5656
+
+DB_USERNAME=adminDuong
+DB_PASSWORD=DuongBa0mothai
+
+root | a45422701232b0e17c8ab9c70ade70ba
+ssh-keygen
+
+sudo service mongod restart
+
+mongorestore -d database_name path_to_dump
+
+<a href="http://affiliatesystem.local/deep_link/190412?campaign=3&banner=1"><img width="500px" height="300px" src="http://affiliatesystem.local//uploads/images/hoa1.jpg /></a>
+
+$date = Carbon\Carbon::createFromFormat("Y-m-d H:i:s", "2018-05-06 12:12:12");
+                        $date->addMonth();
+
+Đương dẫn login laadmin :/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php
+Đương dẫn p laadmin :/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ResetsPasswords.php
+TransportManager
+
+
+* * * * *	root	cd /var/www/affiliatesystem  && php artisan schedule:run 
+* * * * * root cd /var/www/affiliatesystem  php artisan campaign:review >> /dev/null 2>&1
+
+* * * * *	root	cd /home/nghia/Projects/affiliatesystem && php artisan campaign:review >> /dev/null 2>&1
+   cd /home/nghia/Projects/affiliatesystem && php artisan campaign:review
+cd /home/nghia/Projects/affiliatesystem && php artisan schedule:run 
+cd /var/www/affiliatesystem && php artisan campaign:review
+cd /var/www/affiliatesystem && php artisan schedule:run 
+
+regex:/^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$%^&*-]).{6,}$/'
+Which means  the following
+
+Should have At least one Uppercase letter.
+At least one Lower case letter.
+Also,At least one numeric value.
+And, At least one special character.
+Must be more than 6 characters long.
+
+TK thí sinh là:  hoclasuong@gmail.com
+
+MK: duan123
+
+TK Nhà tuyển sinh: ketnoigiaoducviet9@gmail.com
+
+MK: duan123
+
+Tất cả cần đăng nhập tại link của website demo là:
+334
+https://demo.ketnoigiaoduc.vn/
+
+// Set headers
+        $headers = ['content-type: application/json'];
+        curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+
+adminmongo.markmoffat.
+
+
+
+
